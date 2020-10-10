@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Monitoring App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_home">Home</string>
+
+    <string-array name="usertypeStaff">
+        <item>-Choose User Type-</item>
+        <item>Quality Assurance</item>
+        <item>Person In Charge</item>
+        <item>Student</item>
+        <item>Non Active Student</item>
+        <item>Non Active Staff</item>
+    </string-array>
+
+    <string-array name="resultTest">
+        <item>-Choose Result-</item>
+        <item>Success</item>
+        <item>Failed</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="forgotPass">Forgot your password ?</string>
+    <string name="txt_forgot">We\'ll send instructions on how to reset your password to the email address you have registered</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="send_email">Send Email</string>
+    <string name="logout">Logout</string>
+    <string name="warningProjectName">Please enter the project name correctly because the project name cannot be changed again, so as not to affect other data. thank you</string>
+    <string name="message">Type a message</string>
+    <string name="hello">hello</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search (Example: Magang App)</string>
+    <string name="reset_account">Reset Account</string>
+    <string name="student">Student</string>
+    <string name="title_heading">Title Heading</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec arcu nisi, accumsan at turpis eget, commodo bibendum nisl. Morbi diam sem, blandit quis aliquam eu, mattis id tellus. Praesent rhoncus ut enim ac condimentum</string>
+    <string name="btnSelesai">Done</string>
+    <string name="title_activity_main_qa">MainActivityQa</string>
+    <string name="title_activity_main_pic">MainActivityPic</string>
+    <string name="chat">Chats</string>
+    <string name="add_account">Add Account</string>
+    <string name="listProject">List Project</string>
+    <string name="descItem2">Manage all accounts (Apprentices, project leads and QA) that have been or will be added to the application.</string>
+    <string name="see_more">See more</string>
+    <string name="fullname">Full Name</string>
+    <string name="projectName">Project Name</string>
+    <string name="schoolPhone">School Phone</string>
+    <string name="person_in_charge">Person In Charge</string>
+    <string name="add_project">Add Data Project</string>
+    <string name="deskripsi_proyek">Description Project</string>
+    <string name="client_name">Client Name</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_main_admin">MainActivityAdmin</string>
+    <string name="add_account_staff">Register Account</string>
+    <string name="descItem3">Manage the application project data that will be tested by the trainees (student)</string>
+    <string name="welcome">Welcome</string>
+    <string name="add_data_project">Add Data Project</string>
+    <string name="users">Users</string>
+    <string name="time">02 Mei</string>
+    <string name="seen">seen</string>
+    <string name="addPost">Add Post</string>
+    <string name="createReport">Create Report</string>
+    <string name="link_document">Link Document</string>
+    <string name="titleScenario">Title Scenario</string>
+    <string name="descriptionPost">Description</string>
+    <string name="code_module">Code Module</string>
+    <string name="title_module">Title Module</string>
+    <string name="code_scenario">Code Scenario</string>
+    <string name="code_test_case">Code Test Case</string>
+    <string name="expected">Expected</string>
+    <string name="note">Note</string>
+    <string name="reproduce">Reproduce</string>
+    <string name="failed">Failed</string>
+    <string name="detail">Detail</string>
+    <string name="dailyReport">Manage Daily Reports</string>
+    <string name="descDailyReport">Daily reports about the results of testing on each application project using the manual testing method.</string>
+    <string name="see_report">See report</string>
+    <string name="see_data">See data</string>
+    <string name="startDate">Start Date</string>
+    <string name="date">02 May 2010</string>
+    <string name="endDate">End Date</string>
+    <string name="schoolName">School Name</string>
+    <string name="studentAddress">Student Address</string>
+    <string name="schoolAddress">School Address</string>
+    <string name="majors">Majors</string>
+    <string name="nimNis">NIM or NIS</string>
+    <string name="namePic">PIC Name</string>
+    <string name="add_data_student">Add Data Student</string>
+    <string name="addData">Add Data</string>
+    <string name="titleInfo">Title Article</string>
+    <string name="listAccountStudent">List Account Student</string>
+    <string name="settingLanguage">Setting Language</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="title_type_users">Select your option</string>
+    <string name="descProject">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec arcu nisi, accumsan at turpis eget, commodo bibendum nisl. Morbi diam sem, blandit quis aliquam eu, mattis id tellus. Praesent rhoncus ut enim ac condimentum</string>
+    <string name="detailProject">Detail Project</string>
+    <string name="listAccountStaff">List Account Staff</string>
+    <string name="studentPhone">Student Phone</string>
+    <string name="detailUser">Detail User</string>
+    <string name="result">Result</string>
+    <string name="descResult">Description Result</string>
+    <string name="the_last_msg">The Last Msg</string>
+    <string name="detailReport">Detail Report</string>
+    <string name="titleTestcase">Title Test Case</string>
+    <string name="createdBy">Created by</string>
+    <string name="askCloseActivity">Are you sure leaving this page?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="post_publised">Post published</string>
+    <string name="toast_needPict">Please attach a screenshot image</string>
+    <string name="update_report">Update Report</string>
+    <string name="update_data">Update Data</string>
+    <string name="publishDate">Publish date</string>
+    <string name="addModule">Add Module</string>
+    <string name="update_module">Update Module</string>
+    <string name="add_module">Add New Module</string>
+    <string name="dataUsers">Manage Users Data</string>
+    <string name="dataProjects">Manage Projects Data</string>
+    <string name="module_learn">Manage the Learning Module</string>
+    <string name="descModuleLearn">Collection of information for apprentices about good testing techniques and others about the internship process at WGS.</string>
+    <string name="reportStudent">Report Student</string>
+    <string name="descReportStudent">List of reports on the results of tests conducted by the trainees.</string>
+    <string name="descDataStudent">Overall list of apprentices who are carrying out fieldwork practices at PT Walden Global Services.</string>
+    <string name="dataStudent">Data Student</string>
+    <string name="descDataProject">Learn more about the project to be tested.</string>
+    <string name="myProject">My Project</string>
+    <string name="reportProject">"List Report "</string>
+    <string name="project">"Project: "</string>
+    <string name="typeUser">Type User</string>
+    <string name="before">"Before: "</string>
+    <string name="delete">Delete</string>
+    <string name="pDialogDel">Deleting..</string>
+    <string name="toastDelSuccess">Delete successfully</string>
+    <string name="success">Success</string>
+    <string name="askDelMsg">Are you sure to delete message?</string>
+    <string name="delivered">Delivered</string>
+    <string name="toastDelMsg">You can delete only your message..</string>
+    <string name="updateDataProject">Update Data Project</string>
+    <string name="addDataProject">Add Data Project</string>
+    <string name="pdAddData">Add data Project..</string>
+    <string name="errorEmpty">Field are required</string>
+    <string name="toastProjectName">Enter Project Name..</string>
+    <string name="toastClienName">Enter Client Name..</string>
+    <string name="toastDescProject">Enter Project Description..</string>
+    <string name="toastNamePic">Enter Name PIC..</string>
+    <string name="pdUpdateData">Updating Data..</string>
+    <string name="toastSuccessUpdate">Data Project Updated</string>
+    <string name="toastSuccessAdd">Data Project Success Added</string>
+    <string name="chooseImgFrom">Choose Image From</string>
+    <string name="toastPermissionBoth">Camera &amp; Storage both permission are necessary ..</string>
+    <string name="toastPermissionStorage">Storage both permission are necessary ..</string>
+    <string name="detailTitle">\"Detail \"</string>
+    <string name="titleSpinnerProject">-Choose Project Name-</string>
+    <string name="pdRegister">Registering User..</string>
+    <string name="titleTypeUser">-Choose User Type-</string>
+    <string name="toastTypeUser">Please Input Type User</string>
+    <string name="invalidEmail">Invalid Email</string>
+    <string name="minPass">Password length at least 6 characters</string>
+    <string name="toastUpdate">Update Success..</string>
+    <string name="registeredN">Registered....\n</string>
+    <string name="authFailed">Authentications failed</string>
+    <string name="textInfo">Press the name of the project to see details of the project assigned to do the test.\n If anyone is asked, you can contact the project lead listed in the project details or QA in question.</string>
+    <string name="somethingWrong">Something Went Wrong ..</string>
+    <string name="restart">Restart page</string>
+    <string name="not_found">Not Found</string>
+    <string name="notifForgotPass">Please write your valid address first</string>
+    <string name="allReport">All Report</string>
+    <string name="messageUnread"> Message</string>
+    <string name="descProject2">Details of projects being worked on, change data if there are deficiencies or contents that are not appropriate</string>
+    <string name="fullImg">Detail Image</string>
+    <string name="textChatlist">Sent a photo</string>
+    <string name="symbol">-</string>
+    <string name="update">Update</string>
+    <string name="updateDataAccount">Update Data Account</string>
+    <string name="listReport">List Report </string>
+    <string name="moduleLearn">Module Learn</string>
+
+</resources>

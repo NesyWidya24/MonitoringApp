@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514602650999",
+    "firebase_url": "https://mymonitoring-85732.firebaseio.com",
+    "project_id": "mymonitoring-85732",
+    "storage_bucket": "mymonitoring-85732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514602650999:android:a9f431b7683bbebd8f2572",
+        "android_client_info": {
+          "package_name": "com.kagu.mymonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514602650999-9343gpigimius6989ih66ppp725se056.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kagu.mymonitoring",
+            "certificate_hash": "00e8e57363da16bc505db0d5cb55af95b50a229a"
+          }
+        },
+        {
+          "client_id": "514602650999-ibjjaaflst9cqd6cj016aa65b9anutb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTcsi-d8rMJyqpcKsHOCJovio95ZYhKuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514602650999-ibjjaaflst9cqd6cj016aa65b9anutb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

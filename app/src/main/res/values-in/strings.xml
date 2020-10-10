@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Monitoring App</string>
+    <string name="email">Surel</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="title_home">Beranda</string>
+
+    <string-array name="usertypeStaff">
+        <item>-Pilih Tipe Pengguna-</item>
+        <item>Quality Assurance</item>
+        <item>Person In Charge</item>
+        <item>Student</item>
+        <item>Non Active Student</item>
+        <item>Non Active Staff</item>
+    </string-array>
+
+    <string-array name="resultTest">
+        <item>-Pilih Hasil-</item>
+        <item>Success</item>
+        <item>Failed</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="username">Nama Pengguna</string>
+    <string name="register">Daftar</string>
+    <string name="forgotPass">Lupa kata kunci ?</string>
+    <string name="txt_forgot">Kami akan mengirimkan instruksi tentang cara mereset kata sandi Anda ke alamat email yang telah Anda daftarkan</string>
+    <string name="enter_your_email">Masukkan email Anda</string>
+    <string name="send_email">Kirim surel</string>
+    <string name="logout">Keluar</string>
+    <string name="warningProjectName">Mohon memasukkan nama proyek dengan benar karena nama proyek tidak dapat di ubah kembali, agar tidak mempengaruhi data yang lain. Terima kasih</string>
+    <string name="message">Ketik Pesan</string>
+    <string name="hello">hello</string>
+    <string name="profile">Profil</string>
+    <string name="search">Cari (Contoh: Magang App)</string>
+    <string name="reset_account">Setel Ulang Akun</string>
+    <string name="student">Peserta magang</string>
+    <string name="title_heading">Judul</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec arcu nisi, accumsan at turpis eget, commodo bibendum nisl. Morbi diam sem, blandit quis aliquam eu, mattis id tellus. Praesent rhoncus ut enim ac condimentum</string>
+    <string name="btnSelesai">Selesai</string>
+    <string name="title_activity_main_qa">MainActivityQa</string>
+    <string name="title_activity_main_pic">MainActivityPic</string>
+    <string name="chat">Obrolan</string>
+    <string name="add_account">Tambah Akun</string>
+    <string name="listProject">Daftar Proyek</string>
+    <string name="descItem2">Kelola seluruh akun (Peserta magang, lead project, dan QA) yang telah atau akan ditambahkan pada aplikasi.</string>
+    <string name="see_more">Lihat lebih lanjut</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="projectName">Nama Proyek</string>
+    <string name="schoolPhone">Telp Sekolah</string>
+    <string name="person_in_charge">Penanggung jawab</string>
+    <string name="add_project">Tambah Data Proyek</string>
+    <string name="deskripsi_proyek">Deskripsi Proyek</string>
+    <string name="client_name">Nama klien</string>
+    <string name="submit">Kirim data</string>
+    <string name="title_activity_main_admin">MainActivityAdmin</string>
+    <string name="add_account_staff">Pendaftaran Akun</string>
+    <string name="descItem3">Kelola data proyek aplikasi yang akan di dilakukan pengujian oleh peserta magang</string>
+    <string name="welcome">Selamat datang</string>
+    <string name="add_data_project">Tambah data proyek</string>
+    <string name="users">Semua Pengguna</string>
+    <string name="time">02 Mei</string>
+    <string name="seen">Dilihat</string>
+    <string name="addPost">Tambah Postingan</string>
+    <string name="createReport">Buat Laporan</string>
+    <string name="link_document">Tautkan Dokumen</string>
+    <string name="titleScenario">Judul Skenario</string>
+    <string name="descriptionPost">Deskripsi</string>
+    <string name="code_module">Kode Modul</string>
+    <string name="title_module">Judul Modul</string>
+    <string name="code_scenario">Kode Skenario</string>
+    <string name="code_test_case">Kode Test Case</string>
+    <string name="expected">Diharapkan</string>
+    <string name="note">Catatan</string>
+    <string name="reproduce">Reproduce</string>
+    <string name="failed">Gagal</string>
+    <string name="detail">Detail</string>
+    <string name="dailyReport">Mengelola Laporan harian</string>
+    <string name="descDailyReport">Laporan harian (hari kerja) mengenai hasil pengujian pada masing-masing proyek aplikasi menggunakan metode manual testing.</string>
+    <string name="see_report">Lihat laporan</string>
+    <string name="see_data">Lihat data</string>
+    <string name="startDate">Tanggal mulai</string>
+    <string name="date">02 May 2010</string>
+    <string name="endDate">Tanggal selesai</string>
+    <string name="schoolName">Nama sekolah</string>
+    <string name="studentAddress">Alamat peserta magang</string>
+    <string name="schoolAddress">Alamat sekolah</string>
+    <string name="majors">Jurusan</string>
+    <string name="nimNis">NIM atau NIS</string>
+    <string name="namePic">Nama PIC</string>
+    <string name="add_data_student">Tambah data peserta magang</string>
+    <string name="addData">Tambah data</string>
+    <string name="titleInfo">Judul Modul</string>
+    <string name="listAccountStudent">Daftar akun peserta magang</string>
+    <string name="settingLanguage">Pengaturan bahasa</string>
+    <string name="editProfile">Ubah profil</string>
+    <string name="title_type_users">Pilih opsi Anda</string>
+    <string name="descProject">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec arcu nisi, accumsan at turpis eget, commodo bibendum nisl. Morbi diam sem, blandit quis aliquam eu, mattis id tellus. Praesent rhoncus ut enim ac condimentum</string>
+    <string name="detailProject">Detail Proyek</string>
+    <string name="listAccountStaff">Daftar akun staf</string>
+    <string name="studentPhone">Telp peserta magang</string>
+    <string name="detailUser">Detail Pengguna</string>
+    <string name="result">Hasil</string>
+    <string name="descResult">Deskripsi hasil</string>
+    <string name="the_last_msg">Pesan terakhir</string>
+    <string name="detailReport">Detail Laporan</string>
+    <string name="titleTestcase">Judul Test Case</string>
+    <string name="createdBy">Ditulis oleh</string>
+    <string name="askCloseActivity">Apakah anda keluar dari halaman ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="post_publised">Laporan diterbitkan</string>
+    <string name="toast_needPict">Mohon lampirkan gambar layar tangkap</string>
+    <string name="update_report">Ubah Laporan</string>
+    <string name="update_data">Ubah Data</string>
+    <string name="publishDate">Tanggal dibuat</string>
+    <string name="addModule">Tambah Modul</string>
+    <string name="update_module">Ubah Modul</string>
+    <string name="add_module">Tambah Modul</string>
+    <string name="dataUsers">Mengelola Data Pengguna</string>
+    <string name="dataProjects">Mengelola Data Proyek</string>
+    <string name="module_learn">Mengelola Modul Belajar</string>
+    <string name="descModuleLearn">Kumpulan informasi untuk peserta magang mengenai teknik pengujian yang baik dan yang lain nya mengenai proses magang di WGS.</string>
+    <string name="reportStudent">Laporan Peserta Magang</string>
+    <string name="descReportStudent">Daftar laporan hasil pengujian yang telah dilakukan oleh peserta magang.</string>
+    <string name="descDataStudent">Daftar keseluruhan peserta magang yang sedang melaksanakan Praktik kerja lapangan di PT Walden Global Services .</string>
+    <string name="dataStudent">Data Peserta Magang</string>
+    <string name="descDataProject">Mempelajari lebih jauh mengenai Project yang akan dilakukan pengujian.</string>
+    <string name="myProject">Proyek saya</string>
+    <string name="reportProject">"Daftar laporan "</string>
+    <string name="project">"Proyek: "</string>
+    <string name="typeUser">Tipe pengguna</string>
+    <string name="before">"Sebelum: "</string>
+    <string name="delete">Hapus</string>
+    <string name="pDialogDel">Proses Hapus…</string>
+    <string name="toastDelSuccess">Penghapusan berhasil</string>
+    <string name="success">Berhasil</string>
+    <string name="askDelMsg">Apa kamu yakin menghapus pesan?</string>
+    <string name="delivered">Dikirim</string>
+    <string name="toastDelMsg">Kamu hanya bisa mengahus pesan sendiri…</string>
+    <string name="updateDataProject">Ubah Data Proyek</string>
+    <string name="addDataProject">Tambah Data Proyek</string>
+    <string name="pdAddData">Tambah data Proyek…</string>
+    <string name="errorEmpty">Bagian ini diperlukan</string>
+    <string name="toastProjectName">Isi nama proyek…</string>
+    <string name="toastClienName">Isi nama client…</string>
+    <string name="toastDescProject">Isi deskripsi proyek…</string>
+    <string name="toastNamePic">Isi nama PIC…</string>
+    <string name="pdUpdateData">Perubahan data…</string>
+    <string name="toastSuccessUpdate">Data Proyek Berhasil diubah</string>
+    <string name="toastSuccessAdd">Data Proyek Berhasil ditambahkan</string>
+    <string name="chooseImgFrom">Pilih sumber gambar</string>
+    <string name="toastPermissionBoth"><![CDATA[Camera & Storage both permission are neccessary …]]></string>
+    <string name="toastPermissionStorage">Penyimapanan gambar ditentukan…</string>
+    <string name="detailTitle">\"Detal \"</string>
+    <string name="titleSpinnerProject">-Pilih Nama Proyek-</string>
+    <string name="pdRegister">Mendaftarkan akun…</string>
+    <string name="titleTypeUser">-Pilih tipe pengguna-</string>
+    <string name="toastTypeUser">Haram mengisi tipe pengguna</string>
+    <string name="invalidEmail">Email tidak cocok</string>
+    <string name="minPass">Sandi tidak boleh dari 6 huruf</string>
+    <string name="toastUpdate">Ubah berhasil..</string>
+    <string name="registeredN">Proses Pendaftaran....\n</string>
+    <string name="authFailed">Otentikasi gagal</string>
+    <string name="restart">Muat ulang halaman</string>
+    <string name="textInfo">Tekan nama proyek untuk melihat detail proyek yang ditugaskan untuk melakukan tes., \nBila ada yang ditanyakan bisa menghubungi lead project yang tertera di detail proyek atau QA yang bersangkutan</string>
+    <string name="somethingWrong">Sesuatu terjadi error …</string>
+    <string name="not_found">Tidak ditemukan</string>
+    <string name="notifForgotPass">Harap menulis pesan dengan alamat yang asli? Please write your valid address first</string>
+    <string name="allReport">Seluruh laporan</string>
+    <string name="messageUnread"> Pesan</string>
+    <string name="descProject2">Detail proyek yang sedang dikerjakan, ubah data bila terdapat kekurangan atau terdapat isi yang tidak sesuai</string>
+    <string name="fullImg">Detail Gambar</string>
+    <string name="textChatlist">Mengirim sebuah foto</string>
+    <string name="symbol">-</string>
+    <string name="update">Ubah</string>
+    <string name="updateDataAccount">Ubah Data Akun</string>
+    <string name="listReport">Daftar Laporan </string>
+    <string name="moduleLearn">Modul Belajar</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false">
+
+    <!--fromXDelta = kanan ke kiri, fromYDelta= atas ke bawah-->
+    <translate
+        android:duration="2000"
+        android:fromXDelta="0%"
+        android:fromYDelta="0%"
+        android:toXDelta="0%"
+        android:toYDelta="-100%" />
+</set>

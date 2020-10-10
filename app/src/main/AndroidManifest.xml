@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kagu.mymonitoring">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".qa.ListStudentProjectActivity"></activity>
+        <activity android:name=".qa.FullImgModuleActivity" />
+        <activity android:name=".student.FullImgReportActivity" />
+        <activity android:name=".chat.FullImageActivity" />
+        <activity
+            android:name=".users.UsersQaActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".users.UsersProjectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".student.DailyReportActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".student.LearnStudentActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".qa.ModuleLearnActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".student.AddDataStudentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MyProjectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.DetailProjectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.ListProjectActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".admin.ListStudentActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".admin.DetailUsersStaffActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.DetailUsersStudentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.ListStaffActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".pic.ReportProjectActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".qa.DetailModuleLearnActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".student.DetailDailyReportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".qa.AddModuleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".qa.AllDailyReportActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".student.AddDailyReportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ErrorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.MainActivityAdmin"
+            android:label="@string/title_activity_main_admin"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.AddProjectActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".pic.MainActivityPic"
+            android:label="@string/title_activity_main_pic"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".qa.MainActivityQa"
+            android:label="@string/title_activity_main_qa"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".onBoarding.OnBoardingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Log_inActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".chat.MessageActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".StartActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ForgotPassActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".admin.RegisterActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".student.MainActivityStudent"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+    </application>
+
+</manifest>
