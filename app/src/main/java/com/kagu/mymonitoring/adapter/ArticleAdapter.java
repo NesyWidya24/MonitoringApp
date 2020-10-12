@@ -56,7 +56,7 @@ public class ArticleAdapter extends RecyclerView.Adapter<ArticleAdapter.Holder> 
     public void onBindViewHolder(@NonNull ArticleAdapter.Holder holder, int position) {
         //get data
         String uid = moduleLearns.get(position).getId();
-        String articleId = moduleLearns.get(position).getPostId();
+        String articleId = moduleLearns.get(position).getModuleId();
         String pTitleArticle = moduleLearns.get(position).getpTitleArticle();
         String pDescArticle = moduleLearns.get(position).getpDescArticle();
         String pImgArticle = moduleLearns.get(position).getPostImg();
@@ -185,8 +185,8 @@ public class ArticleAdapter extends RecyclerView.Adapter<ArticleAdapter.Holder> 
             super(itemView);
             pTitle = itemView.findViewById(R.id.title_article);
             pDesc = itemView.findViewById(R.id.descArticle);
-            moreReport = itemView.findViewById(R.id.moreReport);
-            delArticle = itemView.findViewById(R.id.delArticle);
+            moreReport = itemView.findViewById(R.id.morePost);
+            delArticle = itemView.findViewById(R.id.delModule);
         }
     }
 }

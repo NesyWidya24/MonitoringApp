@@ -108,11 +108,11 @@ public class AddArticleActivity extends AppCompatActivity {
         String isUpdate = "" + intent.getStringExtra("key");
         String editArticle = "" + intent.getStringExtra("editArticleKey");
         if (isUpdate.equals("editArticle")) {
-            titleForm.setText(R.string.update_article);
+            titleForm.setText(R.string.update_module);
             btnPostArticle.setText(R.string.update_data);
             loadArticle(editArticle);
         } else {
-            titleForm.setText(R.string.add_article);
+            titleForm.setText(R.string.add_module);
             btnPostArticle.setText(R.string.addData);
         }
 
