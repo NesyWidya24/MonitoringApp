@@ -167,7 +167,7 @@ public class AddDailyReportActivity extends AppCompatActivity {
         }
 
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,
-                R.array.resultTest, R.layout.support_simple_spinner_dropdown_item);
+                R.array.resultTest, android.R.layout.simple_spinner_dropdown_item);
         resultTest.setAdapter(adapter);
 
         resultTest.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() { //setting spinner for show and hide tergantung value nya
